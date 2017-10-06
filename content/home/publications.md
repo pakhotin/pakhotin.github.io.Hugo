@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 
 date = 2016-04-20
-draft = false
+draft = true
 
 title = "Recent Publications"
 subtitle = ""
@@ -19,7 +19,7 @@ count = 10
 #   0 = Simple
 #   1 = Classic
 #   2 = Detailed
-list_format = 0
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -32,4 +32,3 @@ list_format = 0
 #  6: Book chapter
 publication_type = "-1"
 +++
-

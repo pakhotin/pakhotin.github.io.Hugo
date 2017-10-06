@@ -12,31 +12,41 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Machine Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cloud Computing",
+    "Big Data",
+    "Statistics",
+    "High Energy Physics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Degree in Extension Studies, Computer Science"
+  institution = "Harvard University (Cambridge, MA)"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "PhD in High Energy Physics"
+  institution = "University of Florida (Gainesville, FL)"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "MSc in Experimental Particle Physics"
+  institution = "Novosibirsk State University (Novosibirsk, Russia)"
+  year = 2000
+
+[[education.courses]]
+  course = "BSc in Physics"
+  institution = "Novosibirsk State University (Novosibirsk, Russia)"
+  year = 1998
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ Accomplished scientist with 20 years of experience in quantitative research, advanced analytical and statistical techniques, data modeling, prediction, simulation and visualization, software development and hardware R&D. Have led analyses of very large and complex datasets using cutting edge algorithms on distributed computing grids.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Recognized team leader with over 15 years of management experience for projects in large national and international collaborations. An energetic team player and passionate mentor well adapted to work in a diverse collaborative environment.
+
+Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of physics and contributed to the breakthrough discovery of the Nobel-prize winning [Higgs boson](https://home.cern/topics/higgs-boson) (aka “God particle”).
